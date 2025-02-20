@@ -59,3 +59,6 @@
 ###
 ![mhidate's Stats](https://github-readme-stats.vercel.app/api?username=mhidate&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhidate)
+
+
