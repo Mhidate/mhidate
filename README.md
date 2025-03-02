@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Dayat from Lombok <br><br>- 👷 I enjoy working on the backend, but I can handle a bit of frontend too.<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I watching anime and playing games</p>
+<br>- 👷 I enjoy working on the backend, but I can handle a bit of frontend too.<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I watching anime and playing games</p>
 
 ###
 
