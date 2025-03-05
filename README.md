@@ -28,8 +28,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<br>- 👷 I enjoy working on the backend, but I can handle a bit of frontend too.<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I watching anime and playing games</p>
+<br>- I started my programming journey with Java, but these days, I spend more time building projects with Go.<br>
+<br>- 👷 I enjoy working on the backend, but I can handle a bit of frontend too.<br>- 📚 I'm currently learning Go,docker,kubernetes<br>- ⚡ In my free time I watching anime and playing games</p>
 
 ###
 
