@@ -29,7 +29,7 @@
 
 ###
 <br>I started my programming journey with Java, but these days, I spend more time building projects with Go.<br>
-<br>- 👷 I enjoy working on the backend, but I can handle a bit of frontend too.<br>- 📚 I'm currently learning Go,Docker,Kubernetes<br>- ⚡ In my free time I watching anime and playing games</p>
+<br>- 👷 I enjoy working on the backend, but I can handle a bit of frontend too.<br>- 📚 I'm currently learning Go,Docker<br>- ⚡ In my free time I watching anime and playing games</p>
 
 ###
 
@@ -39,8 +39,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
